@@ -1,2 +1,3 @@
 std_msgs/Header header
-string json_data
+uint16 x
+uint16 y
