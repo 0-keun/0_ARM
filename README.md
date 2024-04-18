@@ -12,3 +12,8 @@
 - theta 계산 과정 수정
 #### ver 0.2
 - tested in real_dofbot
+
+#### ver 1.0 (base)
+- ROS package
+- opencv + ctrl
+- tested in real_dofbot
